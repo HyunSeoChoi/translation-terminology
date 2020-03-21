@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HyunSeoChoi/translation-terminology/static/css/main.5f361e03.chunk.css",
+    "main.js": "/HyunSeoChoi/translation-terminology/static/js/main.fa055b5a.chunk.js",
+    "main.js.map": "/HyunSeoChoi/translation-terminology/static/js/main.fa055b5a.chunk.js.map",
+    "runtime-main.js": "/HyunSeoChoi/translation-terminology/static/js/runtime-main.1dcf2ab2.js",
+    "runtime-main.js.map": "/HyunSeoChoi/translation-terminology/static/js/runtime-main.1dcf2ab2.js.map",
+    "static/js/2.e6b9613f.chunk.js": "/HyunSeoChoi/translation-terminology/static/js/2.e6b9613f.chunk.js",
+    "static/js/2.e6b9613f.chunk.js.map": "/HyunSeoChoi/translation-terminology/static/js/2.e6b9613f.chunk.js.map",
+    "index.html": "/HyunSeoChoi/translation-terminology/index.html",
+    "precache-manifest.b7b5c2f595c3ab320e03e77729800432.js": "/HyunSeoChoi/translation-terminology/precache-manifest.b7b5c2f595c3ab320e03e77729800432.js",
+    "service-worker.js": "/HyunSeoChoi/translation-terminology/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/HyunSeoChoi/translation-terminology/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6b9613f.chunk.js.LICENSE.txt": "/HyunSeoChoi/translation-terminology/static/js/2.e6b9613f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/HyunSeoChoi/translation-terminology/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dcf2ab2.js",
+    "static/js/2.e6b9613f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fa055b5a.chunk.js"
+  ]
+}
