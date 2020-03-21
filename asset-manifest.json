@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/translation-terminology/site/static/css/main.5f361e03.chunk.css",
-    "main.js": "/translation-terminology/site/static/js/main.b079961a.chunk.js",
-    "main.js.map": "/translation-terminology/site/static/js/main.b079961a.chunk.js.map",
-    "runtime-main.js": "/translation-terminology/site/static/js/runtime-main.06120e36.js",
-    "runtime-main.js.map": "/translation-terminology/site/static/js/runtime-main.06120e36.js.map",
-    "static/js/2.e6b9613f.chunk.js": "/translation-terminology/site/static/js/2.e6b9613f.chunk.js",
-    "static/js/2.e6b9613f.chunk.js.map": "/translation-terminology/site/static/js/2.e6b9613f.chunk.js.map",
-    "index.html": "/translation-terminology/site/index.html",
-    "precache-manifest.6212b3b58bc318b9e6686e74c1bfb5fe.js": "/translation-terminology/site/precache-manifest.6212b3b58bc318b9e6686e74c1bfb5fe.js",
-    "service-worker.js": "/translation-terminology/site/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/translation-terminology/site/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e6b9613f.chunk.js.LICENSE.txt": "/translation-terminology/site/static/js/2.e6b9613f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/translation-terminology/site/static/media/logo.5d5d9eef.svg"
+    "main.css": "/translation-terminology/static/css/main.5f361e03.chunk.css",
+    "main.js": "/translation-terminology/static/js/main.b93a40cd.chunk.js",
+    "main.js.map": "/translation-terminology/static/js/main.b93a40cd.chunk.js.map",
+    "runtime-main.js": "/translation-terminology/static/js/runtime-main.ddb6b1c9.js",
+    "runtime-main.js.map": "/translation-terminology/static/js/runtime-main.ddb6b1c9.js.map",
+    "static/js/2.e6b9613f.chunk.js": "/translation-terminology/static/js/2.e6b9613f.chunk.js",
+    "static/js/2.e6b9613f.chunk.js.map": "/translation-terminology/static/js/2.e6b9613f.chunk.js.map",
+    "index.html": "/translation-terminology/index.html",
+    "precache-manifest.879d817033d98f00f735889445b1ae38.js": "/translation-terminology/precache-manifest.879d817033d98f00f735889445b1ae38.js",
+    "service-worker.js": "/translation-terminology/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/translation-terminology/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6b9613f.chunk.js.LICENSE.txt": "/translation-terminology/static/js/2.e6b9613f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/translation-terminology/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.06120e36.js",
+    "static/js/runtime-main.ddb6b1c9.js",
     "static/js/2.e6b9613f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b079961a.chunk.js"
+    "static/js/main.b93a40cd.chunk.js"
   ]
 }
