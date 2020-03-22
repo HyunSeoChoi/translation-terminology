@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b387bb0eb55396fd12dcbf7a43788c3",
+    "revision": "5fa3f09770c7d9184767b6f385049a49",
     "url": "/translation-terminology/index.html"
   },
   {
-    "revision": "9d1c3b6acf86abf5f5a2",
+    "revision": "eb4a2591b0479984632b",
     "url": "/translation-terminology/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/translation-terminology/static/js/2.43ebebba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d1c3b6acf86abf5f5a2",
-    "url": "/translation-terminology/static/js/main.fba2953f.chunk.js"
+    "revision": "eb4a2591b0479984632b",
+    "url": "/translation-terminology/static/js/main.4909c078.chunk.js"
   },
   {
     "revision": "245a6ccc0e7e10058ff8",
