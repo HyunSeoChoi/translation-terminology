@@ -1,0 +1,16 @@
+{
+  "terms": [
+    {
+      "id": 1,
+      "original_word": "pipeline",
+      "translated_word": "파이프라인",
+      "usage": [""]
+    },
+    {
+      "id": 2,
+      "original_word": "stopword",
+      "translated_word": "불용어",
+      "usage": [""]
+    }
+  ]
+}
