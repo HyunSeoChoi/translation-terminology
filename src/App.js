@@ -27,7 +27,7 @@ class App extends Component {
     this.setState({
       word: word,
       data: en2kr.terms.filter(el => {
-        return el.original_word.includes(word);
+        return el.original_word.includes(word.toLowerCase());
       })
     });
   };
