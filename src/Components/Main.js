@@ -52,6 +52,12 @@ class Main extends Component {
     });
   };
 
+  handleKeyPress = e => {
+    if (e.key === "Enter") {
+      this.handleSearch();
+    }
+  };
+
   render() {
     return (
       <SearchDiv>
@@ -60,6 +66,7 @@ class Main extends Component {
           name="word"
           onChange={this.handleOnChange}
           placeholder="단어 입력"
+          onKeyPress={this.handleKeyPress}
           value={this.state.word}
         />
         <SearchButton onClick={this.handleSearch}>검색</SearchButton>

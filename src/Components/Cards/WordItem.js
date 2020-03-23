@@ -1,11 +1,19 @@
 import React, { Component } from "react";
+import styled from "styled-components";
+
+const Td = styled.th`
+  width: 300px;
+  padding: 10px;
+  background: #ffffff;
+  border-bottom: 1px solid #ccc;
+`;
 
 class WordItem extends Component {
   render() {
     return (
       <tr>
-        <td>{this.props.original_word}</td>
-        <td>{this.props.translated_word}</td>
+        <Td>{this.props.original_word}</Td>
+        <Td>{this.props.translated_word}</Td>
       </tr>
     );
   }

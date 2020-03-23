@@ -8,10 +8,10 @@ const Container = styled.div`
   position: absolute;
   top: 0;
   left: 0;
+  background: url(https://images.pexels.com/photos/1287142/pexels-photo-1287142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size: cover;
   width: 100%;
   height: 100%;
-  background: url(https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_960_720.jpg);
-  background-size: cover;
 `;
 
 class App extends Component {
