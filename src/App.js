@@ -24,6 +24,10 @@ class App extends Component {
   }
 
   handleSearch = word => {
+    if (!word) {
+      alert("최소 한 글자 이상 입력해주세요");
+      return;
+    }
     this.setState({
       word: word,
       data: en2kr.terms.filter(el => {
