@@ -11,6 +11,102 @@
       "original_word": "stopword",
       "translated_word": "불용어",
       "usage": [""]
+    },
+    {
+      "id": 3,
+      "original_word": "file",
+      "translated_word": "파일",
+      "usage": [""]
+    },
+    {
+      "id": 4,
+      "original_word": "encoding",
+      "translated_word": "인코딩",
+      "usage": [""]
+    },
+    {
+      "id": 5,
+      "original_word": "decoding",
+      "translated_word": "디코딩",
+      "usage": [""]
+    },
+    {
+      "id": 6,
+      "original_word": "macro",
+      "translated_word": "매크로",
+      "usage": [""]
+    },
+    {
+      "id": 7,
+      "original_word": "session",
+      "translated_word": "세션",
+      "usage": [""]
+    },
+    {
+      "id": 8,
+      "original_word": "file",
+      "translated_word": "파일",
+      "usage": [""]
+    },
+    {
+      "id": 9,
+      "original_word": "directory",
+      "translated_word": "디렉토리",
+      "usage": [""]
+    },
+    {
+      "id": 10,
+      "original_word": "folder",
+      "translated_word": "폴더",
+      "usage": [""]
+    },
+    {
+      "id": 11,
+      "original_word": "folder",
+      "translated_word": "파일",
+      "usage": [""]
+    },
+    {
+      "id": 12,
+      "original_word": "proxy",
+      "translated_word": "프록시",
+      "usage": [""]
+    },
+    {
+      "id": 13,
+      "original_word": "channel",
+      "translated_word": "채널",
+      "usage": [""]
+    },
+    {
+      "id": 14,
+      "original_word": "token",
+      "translated_word": "토큰",
+      "usage": [""]
+    },
+    {
+      "id": 15,
+      "original_word": "component",
+      "translated_word": "컴포넌트",
+      "usage": [""]
+    },
+    {
+      "id": 16,
+      "original_word": "markov chain",
+      "translated_word": "마르코프 체인",
+      "usage": [""]
+    },
+    {
+      "id": 17,
+      "original_word": "stemming",
+      "translated_word": "어간 추출",
+      "usage": [""]
+    },
+    {
+      "id": 18,
+      "original_word": "lemmatisation",
+      "translated_word": "표제어 추출",
+      "usage": [""]
     }
   ]
 }
