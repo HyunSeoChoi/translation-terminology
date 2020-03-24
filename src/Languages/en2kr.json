@@ -107,6 +107,138 @@
       "original_word": "lemmatisation",
       "translated_word": "표제어 추출",
       "usage": [""]
+    },
+    {
+      "id": 19,
+      "original_word": "latent dirichlet allocation",
+      "translated_word": "잠재 디리클레 할당",
+      "usage": [""]
+    },
+    {
+      "id": 20,
+      "original_word": "open source",
+      "translated_word": "오픈 소스",
+      "usage": [""]
+    },
+    {
+      "id": 21,
+      "original_word": "license",
+      "translated_word": "라이센스",
+      "usage": [""]
+    },
+    {
+      "id": 22,
+      "original_word": "genome",
+      "translated_word": "게놈",
+      "usage": [""]
+    },
+    {
+      "id": 23,
+      "original_word": "engine",
+      "translated_word": "엔진",
+      "usage": [""]
+    },
+    {
+      "id": 24,
+      "original_word": "gateway",
+      "translated_word": "게이트웨이",
+      "usage": [""]
+    },
+    {
+      "id": 25,
+      "original_word": "googling",
+      "translated_word": "구글링",
+      "usage": [""]
+    },
+    {
+      "id": 26,
+      "original_word": "android",
+      "translated_word": "안드로이드",
+      "usage": [""]
+    },
+    {
+      "id": 27,
+      "original_word": "crowdsourcing",
+      "translated_word": "크라우드소싱",
+      "usage": [""]
+    },
+    {
+      "id": 28,
+      "original_word": "digerati",
+      "translated_word": "디제라티",
+      "usage": [""]
+    },
+    {
+      "id": 29,
+      "original_word": "debugging",
+      "translated_word": "디버깅",
+      "usage": [""]
+    },
+    {
+      "id": 30,
+      "original_word": "debug",
+      "translated_word": "디버그",
+      "usage": [""]
+    },
+    {
+      "id": 31,
+      "original_word": "release",
+      "translated_word": "릴리즈",
+      "usage": [""]
+    },
+    {
+      "id": 32,
+      "original_word": "build",
+      "translated_word": "빌드",
+      "usage": [""]
+    },
+    {
+      "id": 33,
+      "original_word": "semantic web",
+      "translated_word": "시맨틱 웹",
+      "usage": [""]
+    },
+    {
+      "id": 34,
+      "original_word": "variable",
+      "translated_word": "변수",
+      "usage": [""]
+    },
+    {
+      "id": 35,
+      "original_word": "domain",
+      "translated_word": "도메인",
+      "usage": [""]
+    },
+    {
+      "id": 36,
+      "original_word": "refactoring",
+      "translated_word": "리팩토링",
+      "usage": [""]
+    },
+    {
+      "id": 37,
+      "original_word": "optimization",
+      "translated_word": "최적화",
+      "usage": [""]
+    },
+    {
+      "id": 38,
+      "original_word": "bitcoin",
+      "translated_word": "비트코인",
+      "usage": [""]
+    },
+    {
+      "id": 39,
+      "original_word": "serverless",
+      "translated_word": "서버리스",
+      "usage": [""]
+    },
+    {
+      "id": 40,
+      "original_word": "architecture",
+      "translated_word": "아키텍처",
+      "usage": [""]
     }
   ]
 }
