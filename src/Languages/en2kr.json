@@ -239,6 +239,12 @@
       "original_word": "architecture",
       "translated_word": "아키텍처",
       "usage": [""]
+    },
+    {
+      "id": 41,
+      "original_word": "activation function",
+      "translated_word": "활성화 함수",
+      "usage": [""]
     }
   ]
 }
