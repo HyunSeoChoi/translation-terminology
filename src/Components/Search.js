@@ -8,6 +8,7 @@ const TableDiv = styled.div`
   left: 50%;
   margin-left: -300px;
   height: 40px;
+  width: 600px;
   background: #ffffff;
 `;
 
