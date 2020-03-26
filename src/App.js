@@ -5,10 +5,15 @@ import Search from "./Components/Search";
 import en2kr from "./Languages/en2kr";
 
 const Container = styled.div`
+  width: 100%;
+  height: 100%;
+`;
+
+const Background = styled.div`
   position: absolute;
   top: 0;
   left: 0;
-  background: url(https://images.pexels.com/photos/1287142/pexels-photo-1287142.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-image: url(https://img.onestore.co.kr/thumbnails/img_sac/0_0_A20_40/data6/android/201412/27/SE201412131811506170004506/0000680735/img/preview/0000680735_DP000105.png);
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -39,8 +44,10 @@ class App extends Component {
   render() {
     return (
       <Container>
-        <Main handleSearch={this.handleSearch} />
-        <Search data={this.state.data} />
+        <Background>
+          <Main handleSearch={this.handleSearch} />
+          <Search data={this.state.data} />
+        </Background>
       </Container>
     );
   }
