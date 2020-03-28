@@ -10,6 +10,11 @@ const TableDiv = styled.div`
   height: 40px;
   width: 600px;
   background: #ffffff;
+
+  @media (max-width: 600px) {
+    width: 402px;
+    margin-left: -201px;
+  }
 `;
 
 const Table = styled.table`
@@ -41,8 +46,12 @@ class Search extends Component {
     return (
       <TableDiv>
         <Table border="1">
-          <Th>영어</Th>
-          <Th>한국어</Th>
+          <tbody>
+            <tr>
+              <Th>영어</Th>
+              <Th>한국어</Th>
+            </tr>
+          </tbody>
           {resultList}
         </Table>
       </TableDiv>

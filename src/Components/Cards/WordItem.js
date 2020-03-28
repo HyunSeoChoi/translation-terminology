@@ -11,10 +11,12 @@ const Td = styled.th`
 class WordItem extends Component {
   render() {
     return (
-      <tr>
-        <Td>{this.props.original_word}</Td>
-        <Td>{this.props.translated_word}</Td>
-      </tr>
+      <tbody>
+        <tr>
+          <Td>{this.props.original_word}</Td>
+          <Td>{this.props.translated_word}</Td>
+        </tr>
+      </tbody>
     );
   }
 }
