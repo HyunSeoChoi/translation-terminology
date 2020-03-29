@@ -23,6 +23,7 @@ const Table = styled.table`
   text-align: center;
   line-height: 1.5;
 `;
+
 const Th = styled.th`
   width: 300px;
   padding: 10px;

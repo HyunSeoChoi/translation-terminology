@@ -19,6 +19,18 @@ const Background = styled.div`
   height: 100%;
 `;
 
+const TextButton = styled.button`
+  position: absolute;
+  top: 2%;
+  left: 50%;
+  margin-left: -50px;
+  width: 100px;
+  height: 4%;
+  border: 1px solid #1b5ac2;
+  outline: none;
+  background: #fff;
+`;
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -45,6 +57,16 @@ class App extends Component {
     return (
       <Container>
         <Background>
+          <TextButton
+            onClick={() =>
+              window.open(
+                "https://github.com/HyunSeoChoi/translation-terminology/blob/master/CONTRIBUTING.md",
+                "_blank"
+              )
+            }
+          >
+            단어 추가하기
+          </TextButton>
           <Main handleSearch={this.handleSearch} />
           <Search data={this.state.data} />
         </Background>
