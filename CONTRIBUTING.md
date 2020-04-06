@@ -10,8 +10,9 @@
 
 1. **src/Languages/en2kr.json**을 직접 수정하지 않고 **src/Languages/new_en2kr.json** 리스트에 용어를 추가합니다.
 
-2. JSON 형식에 관한 내용은 [아래](#json)에서 다룹니다.
+- 추가할 수 있는 용어는 [여기](./ALLOWED_TERMS.md)서 설명합니다.
 
+2. JSON 형식에 관한 내용은 [아래](#json)에서 다룹니다.
 3. Pull Request를 생성할 때 제목은 "Add en2kr word(s)"로 합니다.
 
 ### <a name="issue"></a>사이트에 대한 불편 및 개선사항을 이슈로 등록
