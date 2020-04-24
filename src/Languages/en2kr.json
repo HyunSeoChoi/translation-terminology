@@ -245,6 +245,12 @@
       "original_word": "activation function",
       "translated_word": "활성화 함수",
       "usage": [""]
+    },
+    {
+      "id": 42,
+      "original_word": "corpus",
+      "translated_word": "말뭉치",
+      "usage": [""]
     }
   ]
 }
