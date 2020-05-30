@@ -251,6 +251,24 @@
       "original_word": "corpus",
       "translated_word": "말뭉치",
       "usage": [""]
+    },
+    {
+      "id": 43,
+      "original_word": "parsing",
+      "translated_word": "파싱",
+      "usage": [""]
+    },
+    {
+      "id": 44,
+      "original_word": "text mining",
+      "translated_word": "텍스트 마이닝",
+      "usage": [""]
+    },
+    {
+      "id": 45,
+      "original_word": "morphology analysis",
+      "translated_word": "형태소 분석",
+      "usage": [""]
     }
   ]
 }
