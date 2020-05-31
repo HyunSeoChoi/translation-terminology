@@ -269,6 +269,24 @@
       "original_word": "morphology analysis",
       "translated_word": "형태소 분석",
       "usage": [""]
+    },
+    {
+      "id": 46,
+      "original_word": "deep learning",
+      "translated_word": "딥러닝",
+      "usage": [""]
+    },
+    {
+      "id": 47,
+      "original_word": "machine learning",
+      "translated_word": "머신러닝",
+      "usage": [""]
+    },
+    {
+      "id": 48,
+      "original_word": "statistical learning",
+      "translated_word": "통계학습",
+      "usage": [""]
     }
   ]
 }
